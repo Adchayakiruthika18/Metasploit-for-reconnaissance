@@ -6,8 +6,8 @@ Metasploit for reconnaissance in pentesting
 
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
 
-### BY: SANIYA G
-### REG. NO: 212223240147
+### BY: ADCHAYAKIRUTHIKA M S
+### REG. NO: 212223230005
 
 ## DESIGN STEPS:
 
